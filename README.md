@@ -7,9 +7,9 @@
 ## About
 
 * Game dev (Unity, physics-based systems)
-* Full-stack tinkering (Svelte, Node, Workers)
-* Obsessed with performance, control, and real-time systems
-* Currently building weird + useful tools
+* Full-stack (Svelte, Node, Workers)
+* Perfectionist with performance, control, and real-time systems
+* Currently building dev tools
 
 ---
 
@@ -17,10 +17,10 @@
 
 ```txt
 Languages:   C#, JavaScript, C++, Python, Java
-Frontend:    Svelte, Vite
-Backend:     Node.js, Cloudflare Workers
-Game Dev:    Unity (Rigidbody-based movement)
-Tools:       Git, Blender, Arduino
+Frontend:    Svelte, Vite, React
+Backend:     Node.js, Cloudflare Workers, Express
+Game Dev:    Unity Unreal Godot
+Tools:       can't list them here brutha too long and i'm lazy
 ```
 
 ---
@@ -40,4 +40,3 @@ Tools:       Git, Blender, Arduino
 * Mail: [dev@gizmowizard.tech](mailto:dev@gizmowizard.tech)
 
 --- building something cool...
-```
