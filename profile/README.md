@@ -1,15 +1,15 @@
 # GizmoWizardNet
 
-> building fast, breaking things faster.
+> building fast, breaking things _even_ faster.
 
 ---
 
 ## About
 
 * Game dev (Unity, physics-based systems)
-* Full-stack (Svelte, Node, Workers)
-* Perfectionist with performance, control, and real-time systems
-* Currently building dev tools
+* Full-stack (SvelteKit, TS, React, Node, Cloudflared, you name it!)
+* self derecating perfectionist
+* Currently building Lyntr, Geddit and some cool shit in Unity
 
 ---
 
@@ -25,16 +25,16 @@ Tools:       can't list them here brutha too long and i'm lazy
 
 ---
 
-## 🧩 Philosophy
+## Design and Thought Philosophy
 
 * no unnecessary complexity
-* build first, optimize later
+* build first, optimize later fuh yeah we roll with the punches
 * if it feels slow → it *is* slow
 * control > abstraction
 
 ---
 
-## 📡 Contact
+## Contact the boss(GizmoWizard)
 
 * Site: https://gizmowizard.tech
 * Mail: [dev@gizmowizard.tech](mailto:dev@gizmowizard.tech)
